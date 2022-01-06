@@ -10,6 +10,10 @@
 - The Vacation_Search.ipynb file
 - The WeatherPy_vacation.csv file
 - The WeatherPy_vacation_map.png image
+<img width="1267" alt="WeatherPy_vacation_map" src="https://user-images.githubusercontent.com/85920136/148453723-c975db69-e499-48ab-ba56-4704ae0ada08.png">
+
+
+
 
 ## Deliverable 3: Create a Travel Itinerary Map
 ### Vacation_Itinerary folder with the following:
