@@ -19,4 +19,6 @@
 ### Vacation_Itinerary folder with the following:
 - The Vacation_Itinerary.ipynb file
 - The WeatherPy_travel_map.png image
+<img width="1263" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/85920136/148453906-2c1f2fbd-3d8c-46ad-b75d-0e99739c257f.png">
 - The WeatherPy_travel_map_markers.png image
+<img width="1289" alt="WeatherPy_travel_map_markers" src="https://user-images.githubusercontent.com/85920136/148453966-86d178e1-4d47-4f23-a059-e3e5f330f480.png">
