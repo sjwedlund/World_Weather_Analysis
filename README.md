@@ -1,4 +1,11 @@
 # World Weather Analysis
+This project is part of the Data Analytics and Visualization Bootcamp at University of Oregon.
+
+## Project Objective
+The purpose of this project is to add weather description to the weather data in order for beta testers of the PlanMyTrip app to use input statements, to filter the data for their weather preferences. These weather preferences will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the beta testers will choose four cities to create a travel itinerary. Using the Google Maps Directions API, I created a travel route between the four cities as well as a marker layer map. 
+
+### Technologies Used
+- 
 
 ## Deliverable 1: Retrieve Weather Data
 ### Weather_Database folder with the following:
